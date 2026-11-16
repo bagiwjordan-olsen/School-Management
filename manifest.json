@@ -1,0 +1,19 @@
+{
+  "name": "EduManage — School Management",
+  "short_name": "EduManage",
+  "description": "A simple school management app to manage students, teachers, and classes.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f1f5f9",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "icons/icon.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
